@@ -4,7 +4,7 @@
 <body>
 <div class="bd-example">
         <ul class="list-unstyled">
-          <li>Examples - репозиторий c программами для демонстрации моего кода.:
+          <li>Examples - репозиторий c программами для демонстрации моего кода.
             <ul>
               <li>Tank_game - мини консольная игра написанная в процессе изучения, подробности в папке.</li>
               <li>Create_SQLite_query.py - пример работы SQL запросов.</li>
